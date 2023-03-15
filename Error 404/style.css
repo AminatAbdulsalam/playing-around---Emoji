@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    background-color: pink;
+}
+.span-1{
+    color: black;
+    font-size: 80px;
+    font-weight: bolder;
+}
+.span-2{
+    color: white;
+    font-size: 80px;
+    font-weight: bolder;
+}
+.span-3{
+    color: red;
+    font-size: 80px;
+    font-weight: bolder;
+}
